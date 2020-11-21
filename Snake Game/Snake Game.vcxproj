@@ -22,13 +22,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Empty Allegro\Empty Allegro\global.c" />
-    <ClCompile Include="..\..\Empty Allegro\Empty Allegro\main.c" />
-    <ClCompile Include="..\..\Empty Allegro\Empty Allegro\sketch.c" />
+    <ClCompile Include="global.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="sketch.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Empty Allegro\Empty Allegro\global.h" />
-    <ClInclude Include="..\..\Empty Allegro\Empty Allegro\sketch.h" />
+    <ClInclude Include="global.h" />
+    <ClInclude Include="sketch.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
